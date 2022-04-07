@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **attrikunal16@gmail.com**
 
-- ⚡ Fun fact **I am sort of boring!**
+- ⚡ Fun fact **I am sort of Cool minded!**
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-attri&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-attri" /> </p>
 
