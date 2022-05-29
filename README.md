@@ -2,11 +2,11 @@
 <h3 align="center">Passionate student looking to develop efficient technologies!</h3>
 
 
-- 🔭 I’m currently working on [Cryptography Project](https://github.com/Kunal-Attri/Data-Security-using-Steganography-and-Cryptography-Techniques)
+- 🔭 I’m currently working on a __Research Project__
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Bash**
 
-- 👯 I’m looking to collaborate on **Android Development**
+- 👯 I’m looking to collaborate on **Blockchain / Android Development**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/kunal-attri/](https://www.github.com/kunal-attri/)
 
