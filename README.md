@@ -91,8 +91,6 @@ As of Aug 2022
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kunal-attri&show_icons=true&locale=en" alt="kunal-attri"/>
-</p>
 
-<p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-attri&show_icons=true&locale=en&layout=compact" alt="kunal-attri"/>
 </p>
