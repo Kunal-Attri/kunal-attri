@@ -89,8 +89,11 @@ As of Aug 2022
   </a>
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-attri&show_icons=true&locale=en" alt="kunal-attri"/>
 &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-attri&show_icons=true&locale=en&layout=compact" alt="kunal-attri"/>
+</p>
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=kunal-attri" alt="kunal-attri"/>
 </p>
