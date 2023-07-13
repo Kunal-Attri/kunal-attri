@@ -73,6 +73,9 @@ As of Jul 2023
 &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-attri&show_icons=true&locale=en&layout=compact" alt="kunal-attri"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=kunal-attri" alt="kunal-attri"/>
+</p> -->
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/kunal-attri?font=patrick_hand&ext=activity&show_rank=false"/>
 </p>
