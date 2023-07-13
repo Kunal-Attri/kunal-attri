@@ -77,5 +77,5 @@ As of Jul 2023
   <img align="center" src="https://streak-stats.demolab.com/?user=kunal-attri" alt="kunal-attri"/>
 </p> -->
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kunal-attri?font=patrick_hand&ext=activity&show_rank=false"/>
+  <a href="https://www.leetcode.com/kunal-attri"><img align="center" src="https://leetcard.jacoblin.cool/kunal-attri?font=patrick_hand&ext=activity&show_rank=false"/></a>
 </p>
