@@ -14,7 +14,7 @@ As of Jul 2023
 
 - 📫 How to reach me **attrikunal16@gmail.com**
 
-- ⚡ Fun fact **I am sort of Cool minded!**
+- ⚡ Fun fact **I love Cats and Chocolates!**
 
 - 🌐 Website: [Kunal Attri](https://kunal-attri.github.io/)
 
