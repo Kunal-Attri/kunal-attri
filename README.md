@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kunal Attri</h1>
 <h3 align="center">Passionate student looking to develop efficient technologies!</h3>
 
-As of Jul 2023 
-- 🔭 I’m currently working on a __Machine Learning Project__
-
-- 🌱 I’m currently learning **Reinforcement Learning**
+As of Jan 2025 
+- 🔭 I’m currently working on a __Research Paper on a project of mine__
 
 - 👯 I’m looking to collaborate on **Android Development / Machine Learning**
 
 - 👨‍💻 All of my projects are available at [*_My Github_*](https://www.github.com/kunal-attri/)
 
-- 💬 Ask me about **Python, Android, Linux, or anything**
+- 💬 Ask me about **Python, Android, Linux, or I am open to learning new things**
 
 - 📫 How to reach me **attrikunal16@gmail.com**
 
