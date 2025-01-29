@@ -2,7 +2,7 @@
 <h3 align="center">Passionate student looking to develop efficient technologies!</h3>
 
 As of Jan 2025 
-- 🔭 I’m currently working on a __Research Paper on a project of mine__
+- 🔭 I’m currently writing a __Research Paper on a project of mine__
 
 - 👯 I’m looking to collaborate on **Android Development / Machine Learning**
 
