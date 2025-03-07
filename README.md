@@ -2,7 +2,7 @@
 <h3 align="center">Passionate student looking to develop efficient technologies!</h3>
 
 As of Jan 2025 
-- 🔭 I’m currently writing a __Research Paper on a project of mine__
+- 🔭 I’m currently learning about __Apache Hadoop and Spark__
 
 - 👯 I’m looking to collaborate on **Android Development / Machine Learning**
 
@@ -10,7 +10,7 @@ As of Jan 2025
 
 - 💬 Ask me about **Python, Android, Linux, or I am open to learning new things**
 
-- 📫 How to reach me **attrikunal16@gmail.com**
+- 📫 How to reach me **attrikunal19@gmail.com**
 
 - ⚡ Fun fact **I love Cats and Chocolates!**
 
